@@ -59,8 +59,8 @@ Spring Boot + Angular + PostgreSQL integration.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed&show_icons=true&theme=radical&count_private=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-AF-I&show_icons=true&theme=radical&count_private=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-AF-I&theme=radical" height="160"/>
 </p>
 
 ---
@@ -95,9 +95,8 @@ Spring Boot + Angular + PostgreSQL integration.
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ahmed.405dev@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Ahmed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Ahmed-AF-I"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -198,9 +197,8 @@ Spring Boot + Angular + PostgreSQL integration.
 ## 🤝 تواصل معي
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ahmed.405dev@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Ahmed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Ahmed-AF-I"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
