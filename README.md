@@ -1,4 +1,4 @@
-### ⚙️ **DevOps وال<h1 align="center">👋 Hi, I'm Ahmed | مرحباً، أنا أحمد</h1>
+### <h1 align="center">👋 Hi, I'm Ahmed | مرحباً، أنا أحمد</h1>
 
 <p align="center">
   <a href="#english">English</a> • <a href="#arabic">العربية</a>
