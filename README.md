@@ -82,13 +82,6 @@ Spring Boot + Angular + PostgreSQL integration.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-AF-I&show_icons=true&theme=radical&count_private=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-AF-I&theme=radical" height="160"/>
-</p>
-
 ---
 
 ## 🧩 Skills Overview
@@ -210,14 +203,6 @@ Spring Boot + Angular + PostgreSQL integration.
 
 ---
 
-## 📊 إحصائيات GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed&show_icons=true&theme=radical&count_private=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed&theme=radical" height="160"/>
-</p>
-
----
 
 ## 🧩 نظرة عامة على المهارات
 
