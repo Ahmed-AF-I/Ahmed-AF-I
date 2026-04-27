@@ -17,9 +17,9 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on Spring Boot + Angular projects
+- 🔭 Currently working on Spring Boot + React projects
 - 🎯 Interested in **Microservices**, **Clean Architecture**, **DevOps basics**
-- 💬 Ask me about: **Java — Spring Boot — Angular — SQL — REST APIs**
+- 💬 Ask me about: **Java — Spring Boot — React — SQL — REST APIs**
 - 📘 I love understanding the internal architecture of tools, not just using them
 - 🎉 Fun Fact: I enjoy writing clean code more than running it 😄
 - 📩 Contact: **ahmed.405dev@outlook.com**
@@ -45,7 +45,8 @@
 ### 🛠️ **Frameworks & Tools**
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
@@ -93,7 +94,7 @@ Spring Boot + Angular + PostgreSQL integration.
 </tr>
 <tr>
 <td><strong>Frameworks</strong></td>
-<td>Spring Boot, Angular</td>
+<td>Spring Boot, React js</td>
 </tr>
 <tr>
 <td><strong>Databases</strong></td>
@@ -128,7 +129,7 @@ Spring Boot + Angular + PostgreSQL integration.
 <h2 id="arabic" dir="rtl">🇸🇦 النسخة العربية</h2>
 
 <p align="center" dir="rtl">
-  مطوّر <strong>Backend Java Spring Boot</strong> و <strong>Frontend Angular</strong>.  
+  مطوّر <strong>Backend Java Spring Boot</strong> و <strong>Frontend React</strong>.  
   أحب بناء تطبيقات قوية، تصميم REST APIs، وتطوير أنظمة عالية الأداء.
 </p>
 
@@ -138,9 +139,9 @@ Spring Boot + Angular + PostgreSQL integration.
 
 ## 🚀 نبذة عني
 
-- 🔭 حالياً أعمل على مشاريع Spring Boot + Angular
+- 🔭 حالياً أعمل على مشاريع Spring Boot + React
 - 🎯 مهتم بـ **Microservices**، **Clean Architecture**، **DevOps basics**
-- 💬 اسألني عن: **Java — Spring Boot — Angular — SQL — REST APIs**
+- 💬 اسألني عن: **Java — Spring Boot — React — SQL — REST APIs**
 - 📘 أحب فهم البنية الداخلية للأدوات وليس فقط استخدامها
 - 🎉 Fun Fact: أحب كتابة كود نظيف أكثر مما أحب تشغيله 😄
 - 📩 للتواصل: **ahmed.405dev@outlook.com**
@@ -166,7 +167,8 @@ Spring Boot + Angular + PostgreSQL integration.
 ### 🛠️ **Frameworks & Tools**
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
@@ -192,14 +194,11 @@ Spring Boot + Angular + PostgreSQL integration.
 
 ## 🗂️ المشاريع المميزة
 
-### 🔹 **المشروع الأول — Spring Boot REST API**  
-نظام Backend مع المصادقة وعمليات CRUD.
+### 🔹 **المشروع الأول — Spring Boot REST API** نظام Backend مع المصادقة وعمليات CRUD.
 
-### 🔹 **المشروع الثاني — Angular Dashboard**  
-لوحة تحكم إدارية مع الرسوم البيانية وإدارة المستخدمين.
+### 🔹 **المشروع الثاني — React Dashboard** لوحة تحكم إدارية مع الرسوم البيانية وإدارة المستخدمين.
 
-### 🔹 **المشروع الثالث — تطبيق Full Stack**  
-تكامل Spring Boot + Angular + PostgreSQL.
+### 🔹 **المشروع الثالث — تطبيق Full Stack** تكامل Spring Boot + React + PostgreSQL.
 
 ---
 
@@ -213,7 +212,7 @@ Spring Boot + Angular + PostgreSQL integration.
 </tr>
 <tr>
 <td><strong>الأطر</strong></td>
-<td>Spring Boot, Angular</td>
+<td>Spring Boot, React</td>
 </tr>
 <tr>
 <td><strong>قواعد البيانات</strong></td>
