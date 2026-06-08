@@ -74,14 +74,8 @@
 
 ## 🗂️ Featured Projects
 
-### 🔹 **Project 1 — Spring Boot REST API**  
+### 🔹 **Project 1 — employee-management-system**  
 Backend system with authentication + CRUD operations.
-
-### 🔹 **Project 2 — Angular Dashboard**  
-Admin dashboard with charts and user management.
-
-### 🔹 **Project 3 — Full Stack App**  
-Spring Boot + Angular + PostgreSQL integration.
 
 ---
 
@@ -198,12 +192,7 @@ Spring Boot + Angular + PostgreSQL integration.
 
 ## 🗂️ المشاريع المميزة
 
-### 🔹 **المشروع الأول — Spring Boot REST API** نظام Backend مع المصادقة وعمليات CRUD.
-
-### 🔹 **المشروع الثاني — React Dashboard** لوحة تحكم إدارية مع الرسوم البيانية وإدارة المستخدمين.
-
-### 🔹 **المشروع الثالث — تطبيق Full Stack** تكامل Spring Boot + React + PostgreSQL.
-
+### 🔹 **المشروع الأول — employee-management-system ** نظام Backend مع المصادقة وعمليات CRUD.
 ---
 
 
