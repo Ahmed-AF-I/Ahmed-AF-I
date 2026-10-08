@@ -1,237 +1,251 @@
-### <h1 align="center">👋 Hi, I'm Ahmed | مرحباً، أنا أحمد</h1>
+# Hi, I'm Ahmed
+
+### Java Backend Engineer · Spring Boot · Security · REST APIs
+
+I build backend systems with a focus on **Java, Spring Boot, security, persistence, and production-oriented infrastructure**.
+
+My main interests are designing secure REST APIs, authentication and authorization systems, database-driven applications, and containerized services.
+
+---
+
+## About Me
+
+* ☕ Backend development with **Java & Spring Boot**
+* 🔐 Interested in **Spring Security, OAuth2, OIDC, JWT & authentication systems**
+* 🗄️ Working with **PostgreSQL, JPA & Hibernate**
+* 🧪 Writing tests with **JUnit**
+* 📦 Containerizing applications with **Podman**
+* 🐧 Comfortable working in **Linux environments**
+* ☸️ Currently developing my knowledge of **Kubernetes & cloud infrastructure**
+* 🌐 Familiar with **TypeScript, React & Next.js** for frontend integration
+
+I prefer understanding how systems work internally rather than relying only on framework abstractions.
+
+---
+
+## Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square\&logo=springsecurity\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square\&logo=hibernate\&logoColor=white)
+
+`Java` · `Spring Boot` · `Spring Security` · `Spring Data JPA` · `Hibernate` · `REST APIs`
+
+### Security
+
+`OAuth2` · `OIDC` · `JWT` · `PKCE` · `Authentication & Authorization`
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+
+`PostgreSQL` · `SQL` · `JPA` · `Hibernate`
+
+### Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square\&logo=podman\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+
+`Linux` · `Podman` · `Kubernetes` · `NGINX`
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+
+`TypeScript` · `JavaScript` · `React` · `Next.js`
+
+### Testing
+
+`JUnit` · `Unit Testing` · `Testcontainers`
+
+---
+
+## Featured Projects
+
+### 🔐 Spring Security & Authentication
+
+A collection of projects focused on understanding authentication and authorization with Spring Security.
+
+Topics include:
+
+* Authentication architecture
+* `AuthenticationManager`
+* `DaoAuthenticationProvider`
+* JWT authentication
+* OAuth2
+* OpenID Connect
+* PKCE
+* Authorization Server
+* Resource Server
+* RSA / JWK
+* Database-backed authentication
+
+**Focus:** understanding the security architecture rather than treating authentication as a black box.
+
+---
+
+### 📝 Spring Boot Blog API
+
+A backend application built with Spring Boot demonstrating a more complete application architecture.
+
+**Features & technologies:**
+
+* Spring Boot
+* Spring Security
+* JWT authentication
+* PostgreSQL
+* Spring Data JPA
+* Hibernate
+* DTOs
+* MapStruct
+* Specifications
+* Database migrations
+* Validation
+* REST APIs
+* Containerized development
+
+The project is also used as a practical environment for studying Hibernate behavior, lazy loading, persistence contexts, and Spring Security internals.
+
+---
+
+### 👥 Spring Boot JPA Practice
+
+A project focused on deeper understanding of JPA and Hibernate.
+
+Topics explored include:
+
+* Entity relationships
+* Specifications
+* Criteria API
+* Custom repositories
+* DTO mapping
+* Service-layer architecture
+* Query composition
+* Hibernate persistence behavior
+
+[View Repository →](https://github.com/Ahmed-AF-I/spring_boot_jpa_practice)
+
+---
+
+## Currently Learning
+
+I'm currently moving from application development toward **production-oriented backend engineering**.
+
+```text
+Spring Boot
+    │
+    ├── Security
+    ├── Persistence
+    ├── Testing
+    └── System Design
+          │
+          ▼
+     Containers
+          │
+       Podman
+          │
+          ▼
+     Kubernetes
+          │
+          ▼
+        Cloud
+```
+
+Current areas of focus:
+
+* ☕ Advanced Spring Boot
+* 🔐 Spring Security internals
+* 🐘 PostgreSQL & Hibernate internals
+* 📦 Containerization with Podman
+* ☸️ Kubernetes fundamentals
+* ☁️ Cloud infrastructure
+* 🧪 Production-oriented testing
+* 🏗️ Backend architecture & system design
+
+---
+
+## Engineering Interests
+
+I'm particularly interested in the engineering behind backend systems:
+
+```text
+HTTP
+ ↓
+Servlet / Tomcat
+ ↓
+Spring MVC
+ ↓
+Spring Security
+ ↓
+Service Layer
+ ↓
+JPA / Hibernate
+ ↓
+PostgreSQL
+ ↓
+Container
+ ↓
+Linux
+ ↓
+Infrastructure
+```
+
+I enjoy going beyond *"how do I use this API?"* and understanding:
+
+* Why the framework behaves the way it does
+* What happens underneath abstractions
+* How authentication flows through the system
+* How Hibernate manages persistence
+* How databases execute and maintain queries
+* How applications move from local development toward production
+
+---
+
+## Development Philosophy
+
+> Build it. Understand it. Test it. Containerize it. Then learn how it behaves in production.
+
+I value:
+
+* Clear architecture
+* Explicit security boundaries
+* Maintainable code
+* Strong understanding of fundamentals
+* Testing over assumptions
+* Production-oriented development
+
+---
+
+## Beyond the Main Stack
+
+I'm also exploring **Rust** as a systems programming language.
+
+Not as my primary backend stack, but because I enjoy learning languages that expose deeper concepts such as:
+
+* Ownership
+* Borrowing
+* Memory safety
+* Traits
+* Error handling
+* Concurrency
+
+The goal is to understand different approaches to software engineering rather than collecting programming languages.
+
+---
+
+## Languages
+
+- 🇸🇦 **Arabic** — Native
+- 🇬🇧 **English** — Professional working proficiency
+
+---
 
 <p align="center">
-  <a href="#english">English</a> • <a href="#arabic">العربية</a>
+  <i>Building backend systems, one layer at a time.</i>
 </p>
-
----
-
-<h2 id="english">🇬🇧 English Version</h2>
-
-<p align="center">
-  <strong>Backend Java Spring Boot</strong> & <strong>Frontend Angular</strong> Developer.  
-  Passionate about building robust applications, designing REST APIs, and developing high-performance systems.
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on Spring Boot + React projects
-- 🎯 Interested in **Microservices**, **Clean Architecture**, **DevOps basics**
-- 💬 Ask me about: **Java — Spring Boot — React — SQL — REST APIs**
-- 📘 I love understanding the internal architecture of tools, not just using them
-- 🎉 Fun Fact: I enjoy writing clean code more than running it 😄
-- 📩 Contact: **ahmed.405dev@outlook.com**
-
----
-
-## 🧰 Tech Stack
-
-### 💻 **Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
-### 🌐 **Web Technologies**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### 🛠️ **Frameworks & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
-</p>
-
-### 🗄️ **Databases**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-### ⚙️ **DevOps & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>  
-
----
-
-## 🗂️ Featured Projects
-
-### 🔹 **Project 1 — employee-management-system**  
-Backend system with authentication + CRUD operations.
-
----
-
----
-
-## 🧩 Skills Overview
-
-<table>
-<tr>
-<td><strong>Languages</strong></td>
-<td>Java, TypeScript, JavaScript, SQL</td>
-</tr>
-<tr>
-<td><strong>Frameworks</strong></td>
-<td>Spring Boot, React js</td>
-</tr>
-<tr>
-<td><strong>Databases</strong></td>
-<td>MySQL, PostgreSQL, MongoDB</td>
-</tr>
-<tr>
-<td><strong>DevOps</strong></td>
-<td>Docker, NGINX, Git</td>
-</tr>
-<tr>
-<td><strong>Other</strong></td>
-<td>Clean Architecture, OOP, REST</td>
-</tr>
-</table>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:ahmed.405dev@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Ahmed-AF-I"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">☕ Keep learning, build cool stuff, and stay caffeinated</p>
-
----
----
-
-<h2 id="arabic" dir="rtl">🇸🇦 النسخة العربية</h2>
-
-<p align="center" dir="rtl">
-  مطوّر <strong>Backend Java Spring Boot</strong> و <strong>Frontend React</strong>.  
-  أحب بناء تطبيقات قوية، تصميم REST APIs، وتطوير أنظمة عالية الأداء.
-</p>
-
----
-
-<div dir="rtl">
-
-## 🚀 نبذة عني
-
-- 🔭 حالياً أعمل على مشاريع Spring Boot + React
-- 🎯 مهتم بـ **Microservices**، **Clean Architecture**، **DevOps basics**
-- 💬 اسألني عن: **Java — Spring Boot — React — SQL — REST APIs**
-- 📘 أحب فهم البنية الداخلية للأدوات وليس فقط استخدامها
-- 🎉 Fun Fact: أحب كتابة كود نظيف أكثر مما أحب تشغيله 😄
-- 📩 للتواصل: **ahmed.405dev@outlook.com**
-
----
-
-## 🧰 التقنيات المستخدمة
-
-### 💻 **Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
-### 🌐 **Web Technologies**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### 🛠️ **Frameworks & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
-</p>
-
-### 🗄️ **Databases**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-### ⚙️ **DevOps & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>  
-
----
-
-## 🗂️ المشاريع المميزة
-
-### 🔹 **المشروع الأول — employee-management-system ** نظام Backend مع المصادقة وعمليات CRUD.
----
-
-
-## 🧩 نظرة عامة على المهارات
-
-<table>
-<tr>
-<td><strong>اللغات</strong></td>
-<td>Java, TypeScript, JavaScript, SQL</td>
-</tr>
-<tr>
-<td><strong>الأطر</strong></td>
-<td>Spring Boot, React</td>
-</tr>
-<tr>
-<td><strong>قواعد البيانات</strong></td>
-<td>MySQL, PostgreSQL, MongoDB</td>
-</tr>
-<tr>
-<td><strong>DevOps</strong></td>
-<td>Docker, NGINX, Git</td>
-</tr>
-<tr>
-<td><strong>أخرى</strong></td>
-<td>Clean Architecture, OOP, REST</td>
-</tr>
-</table>
-
----
-
-## 🤝 تواصل معي
-
-<p align="center">
-  <a href="mailto:ahmed.405dev@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Ahmed-AF-I"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">☕ استمر في التعلم، ابنِ أشياء رائعة، وابقَ مفعماً بالطاقة</p>
-
-</div>
